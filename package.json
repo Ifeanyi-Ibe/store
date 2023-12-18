@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "echo \" Welcome to my world \"",
     "start": "nodemon index.js"
   },
   "keywords": [],
